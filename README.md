@@ -4,8 +4,6 @@ This repository showcases two code assignments that emphasize the use of recursi
 
 ## Assignment 1: Recursive Functions
 
-### Index.js
-
 This section includes two functions illustrating the power of recursion:
 
 1. `fibs(n)`: Calculates the nth Fibonacci number using a loop and an array to store intermediate values.
@@ -13,8 +11,6 @@ This section includes two functions illustrating the power of recursion:
 2. `fibsRec(a, b = 1, fib = [0, 1])`: Implements Fibonacci number generation recursively. 
 
 ## Assignment 2: Merge Sort Algorithm
-
-### Index.js
 
 The second assignment presents functions for implementing the merge sort algorithm:
 
